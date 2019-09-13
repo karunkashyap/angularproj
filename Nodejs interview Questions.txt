@@ -1,0 +1,7 @@
+Nodejs interview Questions:
+======================
+1. What is a callback function in nodejs
+2. What is a callback hell
+3. What are the mechanisms to overcome callback hell
+4. What are nodejs promises
+5. What is async await
